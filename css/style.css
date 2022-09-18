@@ -89,6 +89,10 @@ button p {
     margin-top: 15px;
 }
 
+.single {
+    padding: 31px;
+}
+
 .footer {
     margin-top: 20px;
     font-family: "poppins";
